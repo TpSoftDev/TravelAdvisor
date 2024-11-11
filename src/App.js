@@ -5,7 +5,7 @@ import React from "react";
 import { CssBaseline, Grid } from "@mui/material";
 
 // Import custom components (ensure the correct case for file paths)
-import Header from "./components/Header/Header"; // Correct the case if necessary
+import Header from "./components/Header/header";// Correct the case if necessary
 import List from "./components/List/List"; // Ensure correct casing for all imports
 import Map from "./components/Map/Map";
 // Main App component
